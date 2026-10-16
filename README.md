@@ -1,20 +1,22 @@
 # Rafael Adonay Rocha Gutiérrez
 
-**Analista de Supply Chain** · Planeación, inventarios y MRP · SQL · Python · Power BI
+**Análisis de datos · Mejora continua · Supply Chain** · SQL · Python · R · Power BI
 Estudiante de Ingeniería Industrial (UAG) · Guadalajara, México · Lean Six Sigma Green Belt
 
-Experiencia en planeación de la producción (**Jabil**) y mejora continua (**GPV**). Uso datos para pronosticar la demanda, decidir cuánto inventario tener e identificar cuellos de botella en la cadena de suministro.
+Experiencia en planeación de la producción (**Jabil**) y mejora continua (**GPV**). Valido la calidad de bases de datos, corrijo inconsistencias y analizo los datos para resolver problemas de operación: pronosticar la demanda, decidir cuánto inventario tener y encontrar cuellos de botella.
 
-## Proyectos de supply chain
+## Proyectos
 
 | Proyecto | Qué resuelve | Herramientas |
 |---|---|---|
-| [Pronóstico de demanda y punto de reorden](https://github.com/rafaeladonay7-design/dataco-python) | Qué método pronostica mejor y cuánto stock de seguridad tener | Python, pandas |
-| [Entregas a tiempo y clasificación ABC](https://github.com/rafaeladonay7-design/dataco-sql) | Por qué llegan tarde los envíos y qué productos importan más | SQL |
+| [Desempeño de envíos y rentabilidad](https://github.com/rafaeladonay7-design/dataco-sql) | Limpia los errores en fechas y explica por qué llegan tarde los envíos y qué productos importan más | SQL |
 | [Diagnóstico logístico de un marketplace](https://github.com/rafaeladonay7-design/olist-sql) | Cómo los retrasos afectan la calificación del cliente y en qué regiones | SQL |
+| [Pronóstico de demanda y punto de reorden](https://github.com/rafaeladonay7-design/dataco-python) | Qué método pronostica mejor y cuánto stock de seguridad tener | Python, pandas |
 
-📂 **Portafolio:** [rafaeladonay7-design.github.io](https://rafaeladonay7-design.github.io) · 📄 [CV](https://rafaeladonay7-design.github.io/CV_Rafael_Adonay_Rocha.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/rafael-rocha-14352b370)
+**Herramientas:** SQL (CTE, funciones de ventana) · Python (pandas) · R (básico) · Power BI · Microsoft Fabric (básico) · Power Query · Excel (VBA) · SAP · Minitab
+
+📂 **Portafolio:** [rafaeladonay7-design.github.io](https://rafaeladonay7-design.github.io) · 📄 [CV análisis de datos](https://rafaeladonay7-design.github.io/CV_Rafael_Adonay_Rocha_Datos.pdf) · 📄 [CV mejora continua](https://rafaeladonay7-design.github.io/CV_Rafael_Adonay_Rocha.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/rafael-rocha-14352b370)
 
 ---
 
-**Supply Chain Analyst** · Planning, inventory and MRP · SQL · Python · Power BI — Industrial Engineering student in Guadalajara, Mexico, with production planning experience at Jabil and continuous improvement at GPV.
+**Data Analysis · Continuous Improvement · Supply Chain** · SQL · Python · R · Power BI — Industrial Engineering student in Guadalajara, Mexico, with production planning experience at Jabil and continuous improvement at GPV. I validate data quality, fix inconsistencies and analyze data to solve operations problems.
