@@ -1,7 +1,7 @@
 # Rafael Adonay Rocha Gutiérrez
 
 **Análisis de datos · Mejora continua · Supply Chain** · SQL · Python · R · Power BI
-Estudiante de Ingeniería Industrial (UAG) · Guadalajara, México · Lean Six Sigma Green Belt
+Estudiante de Ingeniería Industrial (UAG, 7.º semestre) · Guadalajara, México · Disponible para trabajo remoto (8:00–15:00) · Lean Six Sigma Green Belt
 
 Experiencia en planeación de la producción (**Jabil**) y mejora continua (**GPV**). Valido la calidad de bases de datos, corrijo inconsistencias y analizo los datos para resolver problemas de operación: pronosticar la demanda, decidir cuánto inventario tener y encontrar cuellos de botella.
 
@@ -19,4 +19,4 @@ Experiencia en planeación de la producción (**Jabil**) y mejora continua (**GP
 
 ---
 
-**Data Analysis · Continuous Improvement · Supply Chain** · SQL · Python · R · Power BI — Industrial Engineering student in Guadalajara, Mexico, with production planning experience at Jabil and continuous improvement at GPV. I validate data quality, fix inconsistencies and analyze data to solve operations problems.
+**Data Analysis · Continuous Improvement · Supply Chain** · SQL · Python · R · Power BI — Industrial Engineering student in Guadalajara, Mexico (available for remote work, 8 am–3 pm), with production planning experience at Jabil and continuous improvement at GPV. I validate data quality, fix inconsistencies and analyze data to solve operations problems.
