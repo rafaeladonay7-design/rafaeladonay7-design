@@ -16,7 +16,7 @@ Experiencia en planeación de la producción (**Jabil**) y mejora continua (**GP
 
 **Herramientas:** SQL (CTE, funciones de ventana) · Python (pandas) · R (básico) · Power BI · Microsoft Fabric (básico) · Power Query · Excel (VBA) · SAP · Minitab
 
-📂 **Portafolio:** [rafaeladonay7-design.github.io](https://rafaeladonay7-design.github.io) · 📄 [CV](https://rafaeladonay7-design.github.io/CV_Rafael_Adonay_Rocha_Datos.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/rafael-rocha-14352b370)
+💼 [LinkedIn](https://www.linkedin.com/in/rafael-rocha-14352b370)
 
 ---
 
