@@ -24,7 +24,7 @@ Valido la calidad de bases de datos, corrijo inconsistencias y analizo los datos
 ## Herramientas
 
 **Supply chain:** SAP (BOM, MRP, item master) · Excel avanzado (VBA) · Google Drive · control de inventarios · clasificación ABC · stock de seguridad · 5S · Minitab
-**Datos:** SQL (CTE, funciones de ventana) · Python (pandas) · R (básico) · Power BI · Power Query · Microsoft Fabric (básico)
+**Datos:** SQL (CTE, funciones de ventana) · Python (pandas) · R (básico) · Power BI · Power Query · Microsoft Fabric
 
 💼 [LinkedIn](https://www.linkedin.com/in/rafael-rocha-14352b370)
 
