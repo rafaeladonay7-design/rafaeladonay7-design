@@ -1,31 +1,34 @@
 # Rafael Adonay Rocha Gutiérrez
 
-**Sistemas y gestión de información · Automatización · Bases de datos**
-Estudiante de Ingeniería Industrial (UAG, 7.º semestre) · Guadalajara, México · Disponible de 8:00 a 15:00 (presencial o remoto)
+**Ingeniería industrial con datos e IA** · Guadalajara, México
+Estudiante de Ingeniería Industrial en la UAG (7.º semestre) · Disponible de 8:00 a 15:00, remoto o presencial
 
-Me interesa la digitalización de procesos administrativos: organizo bases de datos, automatizo tareas repetitivas y cuido que la información esté completa, ordenada y sin errores.
+Conecto la operación de planta con los datos: encuentro la causa de un problema, la mido y automatizo la solución.
 
 ## Experiencia
 
-- **GPV Americas · Becario (2026 – presente):** actualizo y organizo bases de datos del personal y la información de candidatos y vacantes, creé formularios digitales para capturar registros y doy seguimiento a incidencias y solicitudes de usuarios en las herramientas digitales. Elaboro reportes y tableros de control.
-- **Jabil · Becario de Planeación (jun – jul 2026):** automaticé con una macro en Excel/VBA el registro del consumo de materiales (**ahorro mensual del 0.42% en inventario**), mantuve expedientes y el control de vigencias de documentos, y actualicé registros en SAP.
+- **GPV Americas · Becario de Mejora Continua (2026 – hoy):** programa 5S en planta con indicadores por área, auditorías cruzadas entre dos fábricas, capacitaciones de Lean y formularios digitales en lugar de la captura a mano.
+- **Jabil · Becario de Planeación de la Producción (jun – jul 2026):** automaticé el back flush con una macro de Excel/VBA (**0.42% menos inventario al mes**, validado con corridas de MRP), analicé el BOM en SAP y di seguimiento a faltantes, excesos y RMAs.
 
 ## Proyectos
 
-| Proyecto | Qué resuelve | Herramientas |
+Cuatro casos con datos públicos. Cada repositorio trae las consultas o el código, los resultados y un README en español y en inglés.
+
+| Proyecto | Hallazgo principal | Herramientas |
 |---|---|---|
-| [Validación de calidad e integridad de datos](https://github.com/rafaeladonay7-design/olist-r) | Revisa 550 mil registros con 32 reglas: datos faltantes, duplicados, fechas con errores y montos que no cuadran | R |
-| [Desempeño de envíos y rentabilidad](https://github.com/rafaeladonay7-design/dataco-sql) | Limpia errores en fechas con una vista SQL y genera reportes sobre 180 mil registros | SQL |
-| [Diagnóstico logístico de un marketplace](https://github.com/rafaeladonay7-design/olist-sql) | Consultas SQL sobre 99 mil pedidos para reportar retrasos por región | SQL |
-| [Pronóstico de demanda y punto de reorden](https://github.com/rafaeladonay7-design/dataco-python) | Análisis en Python para decidir cuánto inventario tener | Python, pandas |
+| [Calidad de datos](https://github.com/rafaeladonay7-design/olist-r) | 32 reglas sobre 550,759 registros de Olist: 15 encontraron problemas y 2,723 registros quedaron por corregir | R |
+| [Envíos tarde y rentabilidad](https://github.com/rafaeladonay7-design/dataco-sql) | 54.8% de 65,752 pedidos llegó tarde: First Class promete 1 día y siempre tarda 2 | SQL |
+| [Diagnóstico logístico de un marketplace](https://github.com/rafaeladonay7-design/olist-sql) | En 99,441 pedidos reales, llegar tarde baja la calificación del cliente de 4.29 a 2.57 | SQL |
+| [Pronóstico de demanda y punto de reorden](https://github.com/rafaeladonay7-design/dataco-python) | El promedio histórico gana el backtest con 4.3% de error; stock de seguridad y punto de reorden al 95% | Python, pandas |
 
 ## Herramientas
 
-**Herramientas digitales:** Microsoft Excel (macros VBA, tablas dinámicas) · Power Automate · Power Apps · Google Drive · Google Sheets · formularios digitales · OneDrive / SharePoint
-**Bases de datos y reportes:** SQL (CTE, funciones de ventana) · Power Query · Power BI · R · Python (pandas) · SAP · HTML/CSS/JavaScript
+**Planeación y mejora continua:** SAP (BOM, MRP, back flush, item master) · Lean Six Sigma Green Belt · 5S · Kaizen · VSM · reportes A3 · estudio de tiempos · Minitab
+**Datos:** Excel (macros VBA, tablas dinámicas, Power Query) · SQL (CTE, funciones de ventana) · Python (pandas) · R · Power BI · Tableau
+**Automatización e IA:** Power Automate · Power Apps · Claude y Claude Code · HTML, CSS y JavaScript · Git
 
 💼 [LinkedIn](https://www.linkedin.com/in/rafael-rocha-14352b370)
 
 ---
 
-**Information Systems & Management · Automation · Databases** — Industrial Engineering student in Guadalajara, Mexico (available 8 am–3 pm, on-site or remote). At GPV I maintain personnel databases and candidate/vacancy records, built digital forms and follow up on user incidents in digital tools; at Jabil I automated a materials-consumption record with an Excel/VBA macro (0.42% monthly inventory savings) and kept document files and their expiration dates under control.
+**Industrial engineering with data and AI** — Industrial Engineering student at UAG in Guadalajara, Mexico (available 8 am–3 pm, remote or on site). At GPV I run the plant's 5S program with KPIs by area, cross-audits between two factories and Lean training; at Jabil I automated the backflush with an Excel/VBA macro (0.42% less inventory a month, validated with MRP runs). The four repositories above are case studies on public data with SQL, Python and R, each with a README in English.
