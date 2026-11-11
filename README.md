@@ -1,6 +1,6 @@
 # Rafael Adonay Rocha Gutiérrez
 
-**Ingeniería industrial con datos e IA** · Guadalajara, México
+**Ingeniería industrial con datos e IA** · Guadalajara, México  
 Estudiante de Ingeniería Industrial en la UAG (7.º semestre) · Disponible de 8:00 a 15:00, remoto o presencial
 
 Conecto la operación de planta con los datos: encuentro la causa de un problema, la mido y automatizo la solución.
@@ -23,8 +23,8 @@ Cuatro casos con datos públicos. Cada repositorio trae las consultas o el códi
 
 ## Herramientas
 
-**Planeación y mejora continua:** SAP (BOM, MRP, back flush, item master) · Lean Six Sigma Green Belt · 5S · Kaizen · VSM · reportes A3 · estudio de tiempos · Minitab
-**Datos:** Excel (macros VBA, tablas dinámicas, Power Query) · SQL (CTE, funciones de ventana) · Python (pandas) · R · Power BI · Tableau
+**Planeación y mejora continua:** SAP (BOM, MRP, back flush, item master) · Lean Six Sigma Green Belt · 5S · Kaizen · VSM · reportes A3 · estudio de tiempos · Minitab  
+**Datos:** Excel (macros VBA, tablas dinámicas, Power Query) · SQL (CTE, funciones de ventana) · Python (pandas) · R · Power BI · Tableau  
 **Automatización e IA:** Power Automate · Power Apps · Claude y Claude Code · HTML, CSS y JavaScript · Git
 
 💼 [LinkedIn](https://www.linkedin.com/in/rafael-rocha-14352b370)
